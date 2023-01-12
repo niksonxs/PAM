@@ -1,0 +1,16 @@
+C:/Users/duben/Documents/GitHub/PAM/LAB4/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/duben/Documents/GitHub/PAM/LAB4/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/duben/Documents/GitHub/PAM/LAB4/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/duben/Documents/GitHub/PAM/LAB4/build/windows/runner/Debug/data/flutter_assets/assets/fonts/SFProText-Regular.ttf
+C:/Users/duben/Documents/GitHub/PAM/LAB4/build/windows/runner/Debug/data/flutter_assets/assets/json/shop.json
+C:/Users/duben/Documents/GitHub/PAM/LAB4/build/windows/runner/Debug/data/flutter_assets/assets/svg/back.svg
+C:/Users/duben/Documents/GitHub/PAM/LAB4/build/windows/runner/Debug/data/flutter_assets/assets/svg/google.svg
+C:/Users/duben/Documents/GitHub/PAM/LAB4/build/windows/runner/Debug/data/flutter_assets/assets/svg/seePswd.svg
+C:/Users/duben/Documents/GitHub/PAM/LAB4/build/windows/runner/Debug/data/flutter_assets/assets/svg/star.svg
+C:/Users/duben/Documents/GitHub/PAM/LAB4/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/duben/Documents/GitHub/PAM/LAB4/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/duben/Documents/GitHub/PAM/LAB4/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/duben/Documents/GitHub/PAM/LAB4/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/Users/duben/Documents/GitHub/PAM/LAB4/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/duben/Documents/GitHub/PAM/LAB4/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/duben/Documents/GitHub/PAM/LAB4/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
